@@ -1,0 +1,23 @@
+.footer {
+  background-color: #1f2937; /* dark gray */
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 0 rem;
+}
+
+.footer-icons {
+  margin-top: 0 rem;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.footer-icons a {
+  color: #f9fafb;
+  transition: color 0.3s ease;
+}
+
+.footer-icons a:hover {
+  color: #60a5fa; /* soft blue on hover */
+}
